@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3783432404
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: content/eyeball
+      Dependencies: {}
+    Info_1:
+      Name: content/plant
+      Dependencies: {}
+    Info_2:
+      Name: content/spider
+      Dependencies: {}
+    Info_3:
+      Name: content/hand
+      Dependencies: {}
